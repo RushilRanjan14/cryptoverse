@@ -5,26 +5,6 @@
 
 ![demo](./public/cryptoverse1.png)
 
-## Run it on your machine
-
-1. Clone the project
-
-   ```sh
-   git clone https://github.com/aznamle/cryptoverse.git
-   ```
-
-1. Install the dependencies
-
-   ```sh
-   cd cryptoverse
-   npm install
-   ```
-
-3. Start the development server
-
-   ```sh
-   npm start
-   ```
 
 <div align="center">
     <p>
